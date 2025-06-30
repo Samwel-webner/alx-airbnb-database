@@ -1,0 +1,2 @@
+All non-key attributes depend only on the primary key
+Each table has a primary key, and every non-key attribute depends on the whole primary key
