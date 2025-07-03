@@ -68,3 +68,10 @@ A property can have multiple bookings
 A property belongs to one user
 A user can own multiple properties
 A user can leave multiple reviews
+Feature Breakdown;
+User Management- allows users to sign up, log in, manage profiles, and define roles
+Property Management- allows hosts to add, update, and manage property listings
+Booking System-allows guests to select available dates and reserve properties
+Payment System-allows users to make secure payments for bookings using various methods
+Search and Filter Functionality-enables users to search for properties based on location, price, dates, and more
+Property Image Gallery-allows hosts to upload multiple images per listing, and guests to view them in a gallery layout
