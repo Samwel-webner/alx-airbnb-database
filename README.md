@@ -75,3 +75,10 @@ Booking System-allows guests to select available dates and reserve properties
 Payment System-allows users to make secure payments for bookings using various methods
 Search and Filter Functionality-enables users to search for properties based on location, price, dates, and more
 Property Image Gallery-allows hosts to upload multiple images per listing, and guests to view them in a gallery layout
+API Security;
+Authentication-verifies who a user is,usually through a login system using email and password
+Authorization-controls what a user can do after they log in
+Rate Limiting-restricts how many requests a user can make to the system in a certain time
+All of this helps to protects user identity and privacy
+Ensures only owners can modify their listings
+Builds user trust and keeps the platform legally compliant
