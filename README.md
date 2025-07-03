@@ -82,3 +82,9 @@ Rate Limiting-restricts how many requests a user can make to the system in a cer
 All of this helps to protects user identity and privacy
 Ensures only owners can modify their listings
 Builds user trust and keeps the platform legally compliant
+CI/CD Pipeline;
+Continuous Integration-The practice of automatically testing and merging code changes into a shared repository regularly
+Continuous Deployment-The process of automatically deploying code to a production environment after it passes all tests
+It ensures that every change is tested, helping catch bugs early.
+Speeds up development by providing quick feedback on code.
+Reduces manual work by automatically running tests, and deploying it.
